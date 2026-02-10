@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "bc84dee411be422d",
+        "id": "d85c7b89bd049f31",
         "type": "tabs",
         "children": [
           {
-            "id": "17255f15170ac2e7",
+            "id": "d3f787bf535c71f2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "6 - Main Notes/Kubernetes Basics.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Kubernetes Basics"
             }
           }
         ]
@@ -74,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "4c2eeef9a05215c0",
@@ -179,14 +184,29 @@
       "bases:Create new base": false
     }
   },
-  "active": "2d548cf86b197bd0",
+  "active": "d3f787bf535c71f2",
   "lastOpenFiles": [
+    "2 - Source Material/Youtube Video/Kubernetes for begginers.md",
+    "6 - Main Notes/Kubernetes Basics.md",
+    "4 - Indexes/devops.md",
+    "5 - Templates/Full Note.md",
+    "4 - Indexes/computing.md",
+    "6 - Main Notes/Nix.md",
+    "2 - Source Material/NixOS Development Environment.md",
+    "5 - Templates/Rough Note.md",
+    "2 - Source Material/Youtube Video",
+    "6 - Main Notes/Foo bar.md",
+    "6 - Main Notes",
+    "5 - Templates",
+    "4 - Indexes",
+    "3 - Tags",
+    "2 - Source Material",
+    "1 - Rough Notes",
     "computing/concepts/idempotency.md",
     "Untitled.md",
     "Welcome.md",
     "computing",
     "computing/concepts/Untitled",
-    "computing/concepts",
-    "computing/network"
+    "computing/concepts"
   ]
 }
